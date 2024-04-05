@@ -10,26 +10,26 @@ global.antitags = true;
 
 //auto functioner
 global.autoTyping = false;                //auto tying by default off.
-global.autoRecord = false;                //auto recording by default off.
+global.autoRecord = true;                //auto recording by default off.
 global.groupevent = false;                //This is the new variable for controlling group event handling.
-global.statusseen = false;                 //This is the new variable for controlling status seen.
+global.statusseen = true;                 //This is the new variable for controlling status seen.
 global.autoreadgc = false;
 
 
 //
-global.prefa = ["."];                                    //Default prefix here. you can change if you want.
+global.prefa = [","];                                    //Default prefix here. you can change if you want.
 
 
 //
-global.Owner = ["+94704274987", "+94704274987"];         //If you want singal number so global.Owner = ['916297175943'] Change into your number.
-global.OwnerNumber = ["+94704274987", "+94704274987"];   //If you want singal number so global.Owner = ['916297175943'] Change into your number.
-global.ownertag = ["+94704274987"];
-global.OwnerName = "SACHITH";
-global.BotName = "SACHITH";
-global.packname = "🦋 │𝐂𝐘𝐁𝜩𝐑│𝐏𝜟𝐍𝐃𝐀│𝐌𝐃│𝐕➂ 🦋";                             //Do not change.
-global.author = "SACHITH";                               //Do not change.
+global.Owner = ["+94768943935"];         //If you want singal number so global.Owner = ['916297175943'] Change into your number.
+global.OwnerNumber = ["+94768943935"];   //If you want singal number so global.Owner = ['916297175943'] Change into your number.
+global.ownertag = ["+94768943935"];
+global.OwnerName = "⚔️ 𝗚𝗮𝗴𝗮𝗻𝗮 ᴼᶠᶠᴵᶜᴵᴬᴸ ⚔️";
+global.BotName = "⚔️ 𝗚𝗮𝗴𝗮𝗻𝗮 ᴼᶠᶠᴵᶜᴵᴬᴸ ⚔️";
+global.packname = "⚔️ 𝗚𝗮𝗴𝗮𝗻𝗮 ᴼᶠᶠᴵᶜᴵᴬᴸ ⚔️";                             //Do not change.
+global.author = "⚔️ 𝗚𝗮𝗴𝗮𝗻𝗮 ᴼᶠᶠᴵᶜᴵᴬᴸ ⚔️";                               //Do not change.
 global.BotSourceCode = "https://github.com/Kai00"; //Do not change.
-global.SupportGroupLink = "https://chat.whatsapp.com/GhRGdwfaMVDCoeAdzILfl";
+global.SupportGroupLink = "https://chat.whatsapp.com/DILLDe2E0aGEtzxDAzGo1j";
 
 
 //
@@ -41,7 +41,7 @@ global.openAiAPI = "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";
 
 
 //
-global.location = "HambanThota, Sri Lankan";
+global.location = "Kadavatha, Sri Lankan";
 global.reactmoji = "💞";
 global.themeemoji = "😂";
 global.vidmenu = { url: 'https://tenor.com/en-CA/view/anonymous-hacker-smooth-gif-10171911193797826570%9D%90%95-12-14' };
@@ -50,7 +50,7 @@ global.lolhuman = "Sachith";
 
 
 //
-global.BotLogo = fs.readFileSync("./Assets/pic1.jpg");
+global.BotLogo = fs.readFileSync("https://telegra.ph/file/009dde1ec4750bb612951.png");
 global.Thumb = fs.readFileSync("./Assets/pic9.jpg");
 global.Thumb1 = fs.readFileSync("./Assets/pic5.jpg");
 global.ErrorPic = fs.readFileSync("./Assets/pic7.jpg");
